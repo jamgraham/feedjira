@@ -24,4 +24,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'loofah',      '~> 2.0'
 
   s.add_development_dependency 'rspec'
+  s.add_development_dependency 'json', '1.7.7'
 end
